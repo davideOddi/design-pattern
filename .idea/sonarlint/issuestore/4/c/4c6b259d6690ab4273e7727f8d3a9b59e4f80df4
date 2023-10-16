@@ -1,0 +1,8 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô„üÿÿÿÿ
+_
+java:S1610"DConvert the abstract class "SelfDriving_Template" into an interface.(ô„üÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ø—Çã8§È¡İ±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´˜““8ˆß¢İ±1
+@
+java:S1144"*Remove this unused private "drive" method.(ÈÑÏ†
